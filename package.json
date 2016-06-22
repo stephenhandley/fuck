@@ -1,0 +1,21 @@
+{
+  "author": "Stephen Handley",
+  "name": "fuck",
+  "dependencies": {},
+  "description": "fuck",
+  "devDependencies": {},
+  "directories": {},
+  "license": "BSD",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "stephen.handley@gmail.com",
+      "name": "stephenhandley"
+    }
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/stephenhandley/fuck"
+  },
+  "version": "1.0.0"
+}
